@@ -1,11 +1,16 @@
 Package: taxataxi
 Type: Package
 Title: Cross Reference Datasets from iNaturalist and NPSpecies
-Version: 0.0.2
-Date: 2019-02-07
+Version: 0.0.3
+Date: 2019-02-11
 Authors@R: c(
     person("Vijay", "Barve", ,"vijay.barve@gmail.com", role = c("aut", "cre"), 
-      comment = c(ORCID = "0000-0002-4852-2567")))
+      comment = c(ORCID = "0000-0002-4852-2567")),
+    person("Tony Lyn", "Morelli", ,"tmorelli@usgs.gov", role = c("aut"), 
+      comment = c(ORCID = "0000-0001-5865-5294")),
+    person("Erin", "Boydston", ,"erin.boydston@gmail.com", role = c("aut")),
+    person("Jenny", "Briggs", ,"Jenny.Briggs@colorado.edu", role = c("aut"))
+            )
 Maintainer: Vijay Barve <vijay.barve@gmail.com>
 Description: Cross references datasets from iNaturalist and NPSpecies. 
   Observations in iNaturalist are cross-referenced with NPSpecies for the national 
