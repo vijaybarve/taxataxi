@@ -28,6 +28,7 @@ getNPSlist(unitcode="ABLI", listtype="fulllist")
 \seealso{
 Other data preparation: \code{\link{NPS_data}},
   \code{\link{clean_NPS_syn}},
-  \code{\link{clean_inat_data}}, \code{\link{inat_summary}}
+  \code{\link{clean_inat_data}},
+  \code{\link{inat_summary}}, \code{\link{taxataxi}}
 }
 \concept{data preparation}

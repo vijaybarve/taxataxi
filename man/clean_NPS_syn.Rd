@@ -23,6 +23,7 @@ clean_NPS_syn(npssyn)
 \seealso{
 Other data preparation: \code{\link{NPS_data}},
   \code{\link{clean_inat_data}},
-  \code{\link{get_NPS_list}}, \code{\link{inat_summary}}
+  \code{\link{get_NPS_list}}, \code{\link{inat_summary}},
+  \code{\link{taxataxi}}
 }
 \concept{data preparation}

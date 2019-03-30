@@ -28,6 +28,6 @@ inat <- clean_inat_data(".\\\\data\\\\observations-17205.csv")
 \seealso{
 Other data preparation: \code{\link{NPS_data}},
   \code{\link{clean_NPS_syn}}, \code{\link{get_NPS_list}},
-  \code{\link{inat_summary}}
+  \code{\link{inat_summary}}, \code{\link{taxataxi}}
 }
 \concept{data preparation}

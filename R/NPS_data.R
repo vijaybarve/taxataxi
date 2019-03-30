@@ -7,7 +7,7 @@
 #' and \code{count}
 #' @importFrom utils read.csv
 #' @examples \dontrun{
-#' NPS_data(inatsum)
+#' nps <- NPS_data(inatsum)
 #' }
 #' @family data preparation
 #' @export

@@ -24,6 +24,7 @@ inatsum <- inat_summary(inat)
 \seealso{
 Other data preparation: \code{\link{NPS_data}},
   \code{\link{clean_NPS_syn}},
-  \code{\link{clean_inat_data}}, \code{\link{get_NPS_list}}
+  \code{\link{clean_inat_data}},
+  \code{\link{get_NPS_list}}, \code{\link{taxataxi}}
 }
 \concept{data preparation}

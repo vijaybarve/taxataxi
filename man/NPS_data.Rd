@@ -20,12 +20,13 @@ Script to download individual Park checklist files
 }
 \examples{
 \dontrun{
-NPS_data(inatsum)
+nps <- NPS_data(inatsum)
 }
 }
 \seealso{
 Other data preparation: \code{\link{clean_NPS_syn}},
   \code{\link{clean_inat_data}},
-  \code{\link{get_NPS_list}}, \code{\link{inat_summary}}
+  \code{\link{get_NPS_list}}, \code{\link{inat_summary}},
+  \code{\link{taxataxi}}
 }
 \concept{data preparation}

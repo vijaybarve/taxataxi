@@ -1,8 +1,8 @@
 Package: taxataxi
 Type: Package
 Title: Cross Reference Datasets from iNaturalist and NPSpecies
-Version: 0.0.3
-Date: 2019-02-11
+Version: 0.0.4
+Date: 2019-03-29
 Authors@R: c(
     person("Vijay", "Barve", ,"vijay.barve@gmail.com", role = c("aut", "cre"), 
       comment = c(ORCID = "0000-0002-4852-2567")),
@@ -20,7 +20,7 @@ Description: Cross references datasets from iNaturalist and NPSpecies.
   in taxonomic synonyms, to determine where species may be the same but under 
   different species names.
 License: GPL-3
-Imports: taxize, plyr, jsonlite, readr, bdvis, maptools, sp
+Imports: taxize, plyr, jsonlite, readr, bdvis, maptools, sp, sqldf, dplyr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
