@@ -5,8 +5,9 @@
 #' @param rg If the function should consider only research grade
 #' records (default FALSE)
 #' @param inat iNaturalist data
-#' @param NPSall NPS data
-#' @return list
+#' @param NPSall NPS data for all Parks
+#' @return list of data frames consisting of summery tables, matching and
+#' non matching records with NPS and ITIS names etc.
 #' @examples \dontrun{
 #' taxataxi("ABLI")
 #' }

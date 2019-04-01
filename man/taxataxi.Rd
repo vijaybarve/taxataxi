@@ -9,7 +9,7 @@ taxataxi(inat, NPSall, unitcode, rg = FALSE)
 \arguments{
 \item{inat}{iNaturalist data}
 
-\item{NPSall}{NPS data}
+\item{NPSall}{NPS data for all Parks}
 
 \item{unitcode}{unitcode of the park}
 
@@ -17,7 +17,8 @@ taxataxi(inat, NPSall, unitcode, rg = FALSE)
 records (default FALSE)}
 }
 \value{
-list
+list of data frames consisting of summery tables, matching and
+non matching records with NPS and ITIS names etc.
 }
 \description{
 Script to
